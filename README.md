@@ -3,7 +3,6 @@ I'm a political strategist studying computer science and working on civic tech p
 
 - 🛠 Working on the [BPI Political Ads Tracker](https://politicaladstracker.com/)
 - 📚 Learning Data Structures and Algorithms ([CS 1332 @ GaTech](https://gt-student-wiki.org/mediawiki/index.php/CS_1332))
-- 🎧 Listening to [LoFi 16](https://open.spotify.com/playlist/2znoi0l6oUCUeQOkvWNSkj?si=bfc1233319c1483d)
 
 
 <!--
