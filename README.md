@@ -1,8 +1,8 @@
 ### Hello World, I'm Jordan
 I'm a political strategist studying computer science and working on civic tech projects. 
 
-- 🔭 I’m currently working on the [BPI Political Ads Tracker](https://politicaladstracker.com/)
-- 🌱 I’m currently learning Data Structures and Algorithms ([CS 1332 @ GaTech](https://gt-student-wiki.org/mediawiki/index.php/CS_1332))
+- 🛠 Working on the [BPI Political Ads Tracker](https://politicaladstracker.com/)
+- 📚 Learning Data Structures and Algorithms ([CS 1332 @ GaTech](https://gt-student-wiki.org/mediawiki/index.php/CS_1332))
 
 
 <!--
