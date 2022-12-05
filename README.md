@@ -1,5 +1,5 @@
 ### Hello World, I'm Jordan
-I'm a political strategist studying computer science and working on civic tech. 
+I'm a political strategist and computer science master's student at Worcester Polytechnic Institute. 
 
 - 🛠 Working on the [BPI Political Ads Tracker](https://politicaladstracker.com/)
 - 📚 Learning Data Structures and Algorithms ([CS 1332 @ GaTech](https://gt-student-wiki.org/mediawiki/index.php/CS_1332))
