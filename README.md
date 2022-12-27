@@ -1,5 +1,5 @@
 ### Hello World, I'm Jordan
-I'm a Master of Computer Science student at Worcester Polytechnic Institute and a political consultant at Bully Pulpit Interactive. 
+I'm a Master of Computer Science student at Worcester Polytechnic Institute and a political media strategist at Bully Pulpit Interactive. 
 
 - 🛠 Working on the [BPI Political Ads Tracker](https://politicaladstracker.com/)
 - 📚 Studying Data Structures and Algorithms ([CS 1332 @ GaTech](https://gt-student-wiki.org/mediawiki/index.php/CS_1332))
