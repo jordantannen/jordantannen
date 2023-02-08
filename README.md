@@ -1,9 +1,6 @@
 ### Hello World, I'm Jordan
 I'm a Master of Computer Science student at Worcester Polytechnic Institute and a political media strategist at Bully Pulpit Interactive. 
 
-- 🛠 Working on the [BPI Political Ads Tracker](https://politicaladstracker.com/)
-- 📚 Studying Database Management Systems
-
 
 <!--
 **jordantannen/jordantannen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
