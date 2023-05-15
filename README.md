@@ -1,5 +1,5 @@
 ### Hello World, I'm Jordan
-I'm a Master of Computer Science student at Worcester Polytechnic Institute and a political media strategist at Bully Pulpit Interactive. 
+I'm a MSCS student at Georgia Tech and a political media strategist at Bully Pulpit Interactive. 
 
 
 <!--
