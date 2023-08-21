@@ -1,5 +1,7 @@
 ### Hello World, I'm Jordan
-I'm a MSCS student at Georgia Tech and a political media strategist at Bully Pulpit Interactive. 
+I'm a part-time CS grad student at Georgia Tech specializing in computing systems and a full-time political media strategist at Bully Pulpit Interactive. 
+
+- 📚 I’m currently enrolled in CS7637 - Knowledge Based AI
 
 
 <!--
