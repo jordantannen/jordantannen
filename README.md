@@ -1,7 +1,7 @@
 ### Hello World, I'm Jordan
-I'm a part-time CS grad student at Georgia Tech specializing in computing systems and a full-time political media strategist at Bully Pulpit Interactive. 
+I'm a part-time CS grad student at Georgia Tech specializing in computing systems.
 
-- 📚 I’m currently enrolled in CS7637 - Knowledge Based AI
+- 📚 I’m currently studying in CS6300 - Software Development Process
 
 
 <!--
