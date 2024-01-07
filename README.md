@@ -1,5 +1,6 @@
 ### Hello World, I'm Jordan
-I'm a part-time CS grad student at Georgia Tech specializing in computing systems.
+
+I am a web developer for M.C. Dean at Google and a part-time Georgia Tech MSCS student specializing in computing systems.
 
 - 📚 I’m currently studying in CS6300 - Software Development Process
 
