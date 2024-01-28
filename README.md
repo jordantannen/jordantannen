@@ -1,7 +1,8 @@
-### Hello World, I'm Jordan
+### Hey Everyone, I'm Jordan
 
-I am a web developer for M.C. Dean at Google and a part-time Georgia Tech MSCS student specializing in computing systems.
+I am a web developer for M.C. Dean at Google and a MSCS student at Georgia Tech student specializing in computing systems.
 
+- 🔭 I’m currently working on web apps w/Django and Angular
 - 📚 I’m currently studying in CS6300 - Software Development Process
 
 
