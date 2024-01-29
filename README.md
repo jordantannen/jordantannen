@@ -2,7 +2,7 @@
 
 I am a web developer for M.C. Dean at Google and a MSCS student at Georgia Tech student specializing in computing systems.
 
-- 🔭 I’m working on Django and Angular web apps
+- 🛠️ I’m currently building Django and Angular web apps
 - 📚 I’m currently enrolled in CS6300 - Software Development Process
 
 
