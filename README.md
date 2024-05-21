@@ -2,8 +2,8 @@
 
 I am a web developer for M.C. Dean at Google and a MSCS student at Georgia Tech specializing in computing systems. Previously, I worked in politics, political campaigns, and media strategy.
 
-- 🛠️ I’m currently building Godot games and MEAN + Tailwind apps
-- 📚 Current coursework is CS6250 - Computer Networks
+- 🛠️ Building Godot games and MEAN + Tailwind apps
+- 📚 Taking coursework in computer networks 
 
 
 <!--
