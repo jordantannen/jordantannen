@@ -2,8 +2,10 @@
 
 I am a web developer for M.C. Dean at Google and a MSCS student at Georgia Tech specializing in computing systems. Previously, I worked in politics, political campaigns, and media strategy.
 
-- 🛠️ Building Godot games and MEAN + Tailwind apps
-- 📚 Taking coursework in operating systems
+Here is what I am up to:
+- Developing internal automation scripts and web apps
+- Building a multiplayer cardgame in Unity 
+- Completing coursework in video game design and cybersecurity
 
 
 <!--
