@@ -4,8 +4,7 @@ I am a web developer for M.C. Dean at Google and a MSCS student at Georgia Tech 
 
 Here is what I am up to:
 - Developing internal automation scripts and web apps
-- Building a multiplayer cardgame in Unity 
-- Completing CS 6035 & CS 6457 at GaTech
+- Studyign NLP at GaTech
 
 
 <!--
