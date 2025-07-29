@@ -3,8 +3,8 @@
 I am a web developer for M.C. Dean at Google and a MSCS student at Georgia Tech specializing in computing systems. Previously, I worked in politics, political campaigns, and media strategy.
 
 Here is what I am up to:
-- Developing internal automation scripts and web apps
-- Studyign NLP at GaTech
+- Building mini-games in Pico-8
+- Studying NLP at GaTech
 
 
 <!--
