@@ -3,8 +3,8 @@
 I am a software developer and a MSCS student at Georgia Tech specializing in computing systems. Previously, I worked in politics, political campaigns, and media strategy.
 
 Here is what I am up to:
-- Building mini-games in Pico-8 and Unity
-- Studying Computer Law and Discrete Proofs at GaTech
+- Making games with Unity
+- Studying Machine Learning at Georgia Tech
 
 
 <!--
