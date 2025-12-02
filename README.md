@@ -1,10 +1,11 @@
 ### Hey Everyone, I'm Jordan
 
-I am a software developer and a MSCS student at Georgia Tech specializing in computing systems. Previously, I worked in politics, political campaigns, and media strategy.
+I am a software developer and a computer science grad student at Georgia Tech. More importantly, I love making video games. Feel free to reach out if you want to chat!
 
 Here is what I am up to:
-- Making games with Unity
+- Making microgames with Unity
 - Studying Machine Learning at Georgia Tech
+- Playing Hades II
 
 
 <!--
