@@ -1,6 +1,6 @@
 ### Hi, I'm Jordan!
 
-I am a software engineer and computer science grad student with coursework spanning computing systems, AI, and game development.
+I am a software developer and computer science grad student with coursework spanning computing systems, AI, and game development.
 
 #### 🔭 What I'm Working On
 - 🎮 **Game Dev**: Making a holiday rogue-like for the [Secret Santa Game Jam](https://itch.io/jam/secret-santa-2025).
