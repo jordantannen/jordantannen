@@ -1,23 +1,18 @@
-### Hey Everyone, I'm Jordan
+### Hi, I'm Jordan!
 
-I am a software developer and a computer science grad student at Georgia Tech. More importantly, I love making video games. Feel free to reach out if you want to chat!
+I am a software engineer and computer science grad student with coursework spanning computing systems, AI, and game development.
 
-Here is what I am up to:
-- Making microgames with Unity
-- Studying Machine Learning at Georgia Tech
-- Playing Hades II
+#### 🔭 What I'm Working On
+- 🎮 **Game Dev**: Making a holiday rogue-like for the [Secret Santa Game Jam](https://itch.io/jam/secret-santa-2025).
+- 🛠️ **Web**: Building [AlgoRecall](https://github.com/jordantannen/algo-recall), a spaced-repetition tool for practing LeetCode.
+- 🎓 **School**: Studying Machine Learning and Ethical AI Systems.
+- ⚔️ **Playing**: Battling through hell through *Hades II*.
 
+#### 🛠️ Tech Stack
+**Languages**: C, C++, C#, Python, Java, JavaScript, SQL
 
-<!--
-**jordantannen/jordantannen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Game Engines**: Unreal Engine 5, Unity 6
 
-Here are some ideas to get you started:
+**Frameworks/Technologies**: React, Node.js, Flask, Tailwind, PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+**Tools**: Git, Firebase
