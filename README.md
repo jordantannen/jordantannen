@@ -9,10 +9,7 @@ I am a software developer and computer science grad student with coursework span
 - ⚔️ **Playing**: Battling through hell through *Hades II*.
 
 #### 🛠️ Tech Stack
-**Languages**: C, C++, C#, Python, Java, JavaScript, SQL
-
-**Game Engines**: Unreal Engine 5, Unity 6
-
-**Frameworks/Technologies**: React, Node.js, Flask, Tailwind, PyTorch
-
-**Tools**: Git, Firebase
+- **Languages**: C, C++, C#, Python, Java, JavaScript, SQL
+- **Game Engines**: Unreal Engine 5, Unity 6
+- **Frameworks/Technologies**: React, Node.js, Flask, Tailwind, PyTorch
+- **Tools**: Git, Firebase
