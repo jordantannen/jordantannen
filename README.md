@@ -4,7 +4,7 @@ I am a software developer and computer science grad student with coursework span
 
 #### 🔭 What I'm Working On
 - 🎮 **Game Dev**: Making a holiday rogue-like for the [Secret Santa Game Jam](https://itch.io/jam/secret-santa-2025).
-- 🛠️ **Web**: Building [AlgoRecall](https://github.com/jordantannen/algo-recall), a spaced-repetition tool for practing LeetCode.
+- 🌐 **Web**: Building [AlgoRecall](https://github.com/jordantannen/algo-recall), a spaced-repetition tool for practing LeetCode.
 - 🎓 **School**: Studying Machine Learning and Ethical AI Systems.
 - ⚔️ **Playing**: Battling through hell through *Hades II*.
 
